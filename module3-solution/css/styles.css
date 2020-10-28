@@ -2,13 +2,17 @@
 -------------------------------------------------- */
 
 body {
-    font-size: 16px;
+    font-size: 18px;
     color: #fff;
     background-color: #61122f;
 }
 
-/*HEADER*/
+.navbar-brand {
+    font-weight: bold;
+    color: inherit;
+}
 
+/*HEADER*/
 #header-nav {
     background-color: #f6b319;
     border-radius: 0;

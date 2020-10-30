@@ -1,20 +1,37 @@
 /* Custom page CSS
 -------------------------------------------------- */
-
-body {
-    font-size: 18px;
-    color: #fff;
-    background-color: #61122f;
-}
-
 .navbar-brand {
     font-weight: bold;
     color: inherit;
 }
 
-/*HEADER*/
-#header-nav {
-    background-color: #f6b319;
-    border-radius: 0;
-    border: 0;
+h1 {
+    margin-bottom: 15px;
+    text-align: center;
 }
+h2 {
+    margin-bottom: 15px;
+    text-align: center;
+}
+.row {
+    width: 100%;
+}
+.col-12 {
+    width: 100%;
+    background-color: grey;
+    margin: 15px;
+}
+.container {
+    max-width: 100%;
+    margin: 15px;
+}
+#chicken {
+
+}
+#beef {
+
+}
+#sushi {
+
+}
+/*HEADER*/

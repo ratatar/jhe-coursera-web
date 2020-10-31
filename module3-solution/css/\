@@ -9,19 +9,23 @@
     color: inherit;
 }
 
+.row {
+    width: 100%;
+}
+.col-12 {
+    width: 100%;
+    background-color: lightgrey;
+    margin: 15px;
+}
 #chicken {
-  background-color: lightsteelblue;
-  padding: 15px;
+
 }
 #beef {
-  background-color: lightsteelblue;
-  padding: 15px;
+
 }
 #sushi {
-  background-color: lightsteelblue;
-  padding: 15px;
-}
 
+}
 .nav-link:hover {
     background-color: whitesmoke;
 }
